@@ -12,8 +12,11 @@
 
 ### **Sobre :** 
 - 🏡 Moro em Goiânia - GO.
-- 🎓 Sou formada em Artes Visuais e em Análise e Desenvolvimento de Sistemas (2023).
-- 👩‍💻 Atualmente estou me especializando em Desenvolvimento web mobile full stack no Instituo de Informática da UFG.
+- 🎓 Tenho formação em Artes Visuais e em Análise e Desenvolvimento de Sistemas.
+
+- 👩‍💻 No momento estou atuando como designer de interfaces (UI), mas busco me consolidar como uma ponte entre design e desenvolvimento, 
+criando soluções digitais funcionais e centradas no usuário. Utilizo Figma e aplico HTML, CSS e JavaScript para demonstrar 
+funcionalidades e facilitar a comunicação com desenvolvedores. Crio protótipos em alta fidelidade (IxD).
 
 ##
 
