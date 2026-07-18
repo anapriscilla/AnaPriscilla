@@ -1,48 +1,51 @@
 ##
 ### **Oi!** Meu nome é Ana Priscilla Furtado ♒
 ##
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anapriscilla&show_icons=true&theme=aura&rank_icon=github" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://i.giphy.com/qKCFeFGiojrAQ.gif" />
-</a>
+<!-- 🐍 Cobrinha dos commits (requer a GitHub Action configurada — veja instruções) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anapriscilla/anapriscilla/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anapriscilla/anapriscilla/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/anapriscilla/anapriscilla/output/github-snake.svg" />
+</picture>
 
->💻🖥📱 #PorMaisMulheresNaProgramação 
+>🎨💻 Product Designer | UI Design | Design Systems | #PorMaisMulheresNaProgramação
 
-### **Sobre :** 
+### **Sobre :**
 - 🏡 Moro em Goiânia - GO.
-- 🎓 Tenho formação em Artes Visuais e em Análise e Desenvolvimento de Sistemas.
-
-- 👩‍💻 No momento estou atuando como designer de interfaces (UI), mas busco me consolidar como uma ponte entre design e desenvolvimento, 
-criando soluções digitais funcionais e centradas no usuário. Utilizo Figma e aplico HTML, CSS e JavaScript para demonstrar 
-funcionalidades e facilitar a comunicação com desenvolvedores. Crio protótipos em alta fidelidade (IxD).
+- 🎓 Formada em Artes Visuais (UFG) e em Análise e Desenvolvimento de Sistemas (SENAI FATESG).
+- 👩‍💻 Atuo como **Product Designer** com ênfase em **UI Design e Design Systems**: estruturo bibliotecas de componentes no Figma (auto-layout, variantes e design tokens), elaboro documentação técnica e guidelines para desenvolvedores e cuido do **handoff técnico** entre design e front-end.
+- 🌉 Meu diferencial é ser a ponte entre design e desenvolvimento: uno o domínio avançado de Figma à experiência prática com HTML, CSS e JavaScript, reduzindo a fricção entre o design aprovado e a implementação final.
+- 🚀 Atualmente estou me **especializando em Design Systems** e desenvolvendo habilidades de programação para me consolidar como **Design Engineer**.
+- 🤖 Concluí o curso **Design Systems para Inteligência Artificial** (The Starter) — [ver certificado](#) <!-- adicione o link do certificado aqui -->
 
 ##
-
 <h3>Habilidades:</h3>
 
-| Conhecimento     | Noções     |  Aprendendo     | Design    |
+| Design | Front-End | Noções | Aprendendo |
 |:----------------:|:-----------------:| :---------------:| :---------------:|
-| <img align="center" alt="HTML" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="CSS" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"> <img align="center" alt="Js" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  <img align="center" alt="Java" height="55" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> | <img align="center" alt="Git" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> <img align="center" alt="Sql" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"> | <img align="center" alt="Ts" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> <img align="center" alt="React" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> <img align="center" alt="Angular" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" /> | <img align="center" alt="Figma" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"> <img align="center" alt="Ps" height="55" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"> 
- 
+| <img align="center" alt="Figma" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"> <img align="center" alt="Ps" height="55" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"> <img align="center" alt="Illustrator" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg"> <img align="center" alt="XD" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg"> | <img align="center" alt="HTML" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="CSS" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"> <img align="center" alt="Js" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> | <img align="center" alt="Git" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> <img align="center" alt="Sql" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"> | <img align="center" alt="Ts" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> <img align="center" alt="React" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> |
 
 ##
+<h3>Foco atual:</h3>
 
+- 🧩 **Design Systems**: design tokens, componentização, documentação e guidelines para desenvolvedores.
+- 📐 **UI Design**: layout, grids, hierarquia visual e design responsivo (mobile-first).
+- 📦 **Handoff técnico**: especificações, exportação de assets e documentação para times de desenvolvimento.
+- ♿ **Acessibilidade**: boas práticas de contraste, legibilidade e navegação (WCAG).
+- 🛠️ **Design Engineer em construção**: evoluindo em JavaScript, TypeScript e React para transformar design systems em código.
+
+##
 ##### Redes Sociais / Contato :
 <div "style=display: inline-block">
   <a href="https://www.linkedin.com/in/anapriscilla/">
   <img height=30 align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="https://www.instagram.com/anapriscillaf/">
   <img height=30 align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-
   <a href="https://www.behance.net/anapriscilla">
   <img height=30 align="center" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" />
   </a>
-
   <a href="mailto:dev.anapriscilla@gmail.com">
   <img height=30 align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
