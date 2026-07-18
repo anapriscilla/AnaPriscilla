@@ -8,7 +8,7 @@
 </picture>
 
 ### **Sobre :**
-- 🏡 Moro em Goiânia - GO.
+- 🏡 Nasci e cresci em Goiânia, mas estou passando uma temporada no interior (Nova Veneza de Goiás).
 - 🎓 Formada em Artes Visuais (UFG) e em Análise e Desenvolvimento de Sistemas (SENAI FATESG).
 - 👩‍💻 Atuo como **Product Designer** com ênfase em **UI Design e Design Systems**: estruturo bibliotecas de componentes no Figma (auto-layout, variantes e design tokens), elaboro documentação técnica e guidelines para desenvolvedores e cuido do **handoff técnico** entre design e front-end.
 - 🌉 Meu diferencial é ser a ponte entre design e desenvolvimento: uno o domínio avançado de Figma à experiência prática com HTML, CSS e JavaScript, reduzindo a fricção entre o design aprovado e a implementação final.
