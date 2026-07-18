@@ -1,14 +1,11 @@
 ##
-### **Oi!** Meu nome é Ana Priscilla Furtado ♒
-##
-<!-- 🐍 Cobrinha dos commits (requer a GitHub Action configurada — veja instruções) -->
+## **Olá, Mundo!** Sou a Ana Priscilla Furtado.
+>💻 Product Designer | UI Design | Design Systems | Front-End | #PorMaisMulheresNaProgramação
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anapriscilla/anapriscilla/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anapriscilla/anapriscilla/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/anapriscilla/anapriscilla/output/github-snake.svg" />
 </picture>
-
->🎨💻 Product Designer | UI Design | Design Systems | #PorMaisMulheresNaProgramação
 
 ### **Sobre :**
 - 🏡 Moro em Goiânia - GO.
@@ -16,7 +13,7 @@
 - 👩‍💻 Atuo como **Product Designer** com ênfase em **UI Design e Design Systems**: estruturo bibliotecas de componentes no Figma (auto-layout, variantes e design tokens), elaboro documentação técnica e guidelines para desenvolvedores e cuido do **handoff técnico** entre design e front-end.
 - 🌉 Meu diferencial é ser a ponte entre design e desenvolvimento: uno o domínio avançado de Figma à experiência prática com HTML, CSS e JavaScript, reduzindo a fricção entre o design aprovado e a implementação final.
 - 🚀 Atualmente estou me **especializando em Design Systems** e desenvolvendo habilidades de programação para me consolidar como **Design Engineer**.
-- 🤖 Concluí o curso **Design Systems para Inteligência Artificial** (The Starter) — [ver certificado](#) <!-- adicione o link do certificado aqui -->
+- 🤖 Concluí o curso **Design Systems para Inteligência Artificial** (The Starter) — [em andamento - breve certificado](#) 
 
 ##
 <h3>Habilidades:</h3>
@@ -34,7 +31,7 @@
 - ♿ **Acessibilidade**: boas práticas de contraste, legibilidade e navegação (WCAG).
 - 🛠️ **Design Engineer em construção**: evoluindo em JavaScript, TypeScript e React para transformar design systems em código.
 
-##
+#### [Porfólio / Design ](https://anapriscilla.github.io/portfolio)
 ##### Redes Sociais / Contato :
 <div "style=display: inline-block">
   <a href="https://www.linkedin.com/in/anapriscilla/">
