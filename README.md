@@ -24,13 +24,13 @@
 | <img align="center" alt="Figma" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"> <img align="center" alt="Ps" height="55" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"> <img align="center" alt="Illustrator" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg"> <img align="center" alt="XD" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg"> | <img align="center" alt="HTML" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="CSS" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"> <img align="center" alt="Js" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> | <img align="center" alt="Git" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> <img align="center" alt="Sql" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"> | <img align="center" alt="Ts" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> <img align="center" alt="React" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> |
 
 ##
-<h3>Foco atual:</h3>
+<h3>Foco atual: Evoluir para Design Engineer</h3>
 
 - 🧩 **Design Systems**: design tokens, componentização, documentação e guidelines para desenvolvedores.
 - 📐 **UI Design**: layout, grids, hierarquia visual e design responsivo (mobile-first).
 - 📦 **Handoff técnico**: especificações, exportação de assets e documentação para times de desenvolvimento.
 - ♿ **Acessibilidade**: boas práticas de contraste, legibilidade e navegação (WCAG).
-- 🛠️ **Design Engineer em construção**: evoluindo em JavaScript, TypeScript e React para transformar design systems em código.
+- 🛠️ **Design Engineer em evolução**: evoluindo em JavaScript, TypeScript e React para transformar design systems em código.
 
 #### [Porfólio / Design ](https://anapriscilla.github.io/portfolio)
 ##### Redes Sociais / Contato :
