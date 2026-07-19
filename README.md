@@ -1,7 +1,7 @@
 ##
 ## **Olá, Mundo!** Sou a Ana Priscilla F. 🐈‍⬛
 
->💻 Product Designer | UI Design | Design Systems | Front-End | #PorMaisMulheresNaProgramação
+>💻 Product Designer | UX/UI | Design Systems | Dev. Front-End | #PorMaisMulheresNaProgramação
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anapriscilla/anapriscilla/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anapriscilla/anapriscilla/output/github-snake.svg" />
