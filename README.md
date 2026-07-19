@@ -1,5 +1,5 @@
 ##
-## **Olá, Mundo!** Sou a Ana Priscilla F. 🐈‍⬛
+## **Olá, Mundo!** Sou a Ana. 🐈‍⬛
 
 >💻 Product Designer | UI Design | Design Systems | Front-End | #PorMaisMulheresNaProgramação
 <picture>
