@@ -1,5 +1,5 @@
 ##
-## **Olá, Mundo!** Sou a Ana. 🐈‍⬛
+## **Olá, Mundo!** Sou a Ana. 🐱
 
 >💻 Product Designer | UX/UI | Design Systems | Dev. Front-End | #PorMaisMulheresNaProgramação
 <picture>
